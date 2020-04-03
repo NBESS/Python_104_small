@@ -2,8 +2,13 @@
 
 # Setup
 # Create a loop that prints all numbers in desired range
-# iterate to display even numbers
+# Iterate to display even numbers
 
 for num in range(0, 100, 2):
     # Result/ Output
-    print(num)
+    print(num, end=',')
+
+print('\n')
+
+for num in range(1, 100, 2):
+    print(num, end=',')
