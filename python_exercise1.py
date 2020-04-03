@@ -3,6 +3,6 @@
 # Setup
 # Create a loop that prints all numbers in desired range
 
-for num in range(0, 99):
+for num in range(0, 100):
     # Result/ Output
     print(num)
